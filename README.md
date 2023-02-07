@@ -1,4 +1,4 @@
-# 🔥Build a Stunning Fashion Studio Website with React JS [ Locomotive Scroll + GSAP + Framer Motion ]
+# Fashion Studio Website with React JS [ Locomotive Scroll + GSAP + Framer Motion ]
 
 
 View Demo👇: <br />
